@@ -40,4 +40,3 @@ var createTaskEl = function(taskDataObj) {
 
 formEl.addEventListener("submit", taskFormHandler); 
 
-// CONTINUE ONTO 4.2.6
